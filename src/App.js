@@ -16,6 +16,9 @@ export default function App(){
 
       <button onClick={()=>setCounter(count+1)}>update counter</button>
       <button onClick={()=>setMorning(!isMorning)}>update day</button>
+      <br />
+      <br />
+      Copyright 2020 - Developed by Shahzad Munir Minhas
     </div>
   )
 }
